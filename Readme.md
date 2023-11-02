@@ -1,5 +1,5 @@
 
-# RDR2 Controller Hold-to-Sprint [Xbox]
+# RDR2 Hold-to-Sprint for Xbox Controllers
 
 This is an [AutoHotkey](https://www.autohotkey.com/) script made for Red Dead Redemption 2 which allows you to **Hold A** on your controller to sprint your horse instead of mashing the A button.
 
