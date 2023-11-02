@@ -1,6 +1,5 @@
 ﻿#Requires AutoHotkey v2.0-beta.6
 #MaxThreadsPerHotkey 3
-#HotIf WinExist("ahk_exe rdr2.exe")
 
 
 !n:: {

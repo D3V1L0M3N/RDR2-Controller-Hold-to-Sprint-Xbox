@@ -13,7 +13,7 @@ The workaround is to use [XInput.ahk by Lexikos](https://www.autohotkey.com/boar
 
 ### Usage
 
-In this version of the script, **Hold A** to sprint
+In this version of the script, simply **Hold A** to sprint
 
 ### Installation
 1. Install the free & open-source application: [AutoHotkey v2.0 for Windows](https://www.autohotkey.com/)
